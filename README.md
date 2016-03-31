@@ -6,6 +6,7 @@ At Arizona State University, over 78,000 students, around 12,000 employees, and 
 ### Measurements:
 
 How many people will use the app?
+ - 3/31/2016 - 15/29 said yes (51.72%)
 
 How much average time it saves the user?
 
